@@ -1,4 +1,5 @@
 # Nutrexplosion-Educational-Game Made using Unity
+To play in browser: https://mrzhang.itch.io/nutrexplosion-web-version
 Nutrexplosion is a simple and fun educational game that teaches you about a health and balanced diet.
 Use left and right arrow key to move the player left and right, eat food falling from the sky.
 To win, collect 10 of each essential nutrition: carbohydrates(bread), vitamin(apple), protein(chicken leg).
