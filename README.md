@@ -5,4 +5,4 @@ Use left and right arrow key to move the player left and right, eat food falling
 To win, collect 10 of each essential nutrition: carbohydrates(bread), vitamin(apple), protein(chicken leg).
 But avoid the sweet sweet cake because it has trans fat and it slows you down! The game ends when you eat more than 5 cakes
 This version does not have sound, to play with sound, download the windows version
-* The full screen botton does not work in Safari. Please play with Chrome for now.
+* The full screen and exit botton does not work in Safari. Please play with Chrome for now.
